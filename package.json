@@ -1,7 +1,7 @@
 {
   "name": "spicy-red-vscode",
   "displayName": "Spicy Red",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "lord-turmoil",
   "description": "Spicy Red theme from Visual Studio",
   "author" : {
@@ -11,6 +11,10 @@
     "Themes"
   ],
   "icon": "assets/favicon.png",
+  "galleryBanner": {
+    "color": "#A00000",
+    "theme": "dark"
+  },
   "pricing": "Free",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {

@@ -1,12 +1,18 @@
 # Spicy Red
 
----
+<p><img src="https://img.shields.io/visual-studio-marketplace/d/lord-turmoil.spicy-red-vscode?label=Downloads&colorA=4A090D&colorB=6A0D12" style="margin: 5px;" /><img src="https://img.shields.io/visual-studio-marketplace/r/lord-turmoil.spicy-red-vscode?label=Ratings&colorA=4A090D&colorB=6A0D12" style="margin: 5px; "/></p>
 
-<a href="https://github.com/Lord-Turmoil/spicy-red-vscode" target="_blank"><img src="https://img.shields.io/badge/spicy--red--vscode-GitHub-purple?style=plastic&logo=github" alt="github" style="margin: 5px;" /></a>
+<p style="text-align:center"><img src="assets/favicon.png" style="zoom:25%;" /></p>
 
 Inspired by the Spicy Red theme from Visual Studio 2022 Preview.
 
 It features frenzy red UI with syntax highlighting the same as the built-in theme "Dark (Visual Studio - C/C++)".
+
+## Screenshots
+
+![image-20240505145003024](assets/screenshot-1.png)
+
+![image-20240505145151992](assets/screenshot-2.png)
 
 ## Installation & Usage
 
