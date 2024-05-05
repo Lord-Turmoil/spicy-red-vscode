@@ -1,10 +1,10 @@
 {
   "name": "spicy-red-vscode",
   "displayName": "Spicy Red",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "lord-turmoil",
   "description": "Spicy Red theme from Visual Studio",
-  "author" : {
+  "author": {
     "name": "Lord Turmoil"
   },
   "categories": [
