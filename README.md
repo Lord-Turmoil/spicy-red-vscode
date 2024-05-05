@@ -2,9 +2,11 @@
 
 ---
 
+<a href="https://github.com/Lord-Turmoil/spicy-red-vscode" target="_blank"><img src="https://img.shields.io/badge/spicy--red--vscode-GitHub-purple?style=plastic&logo=github" alt="github" style="margin: 5px;" /></a>
+
 Inspired by the Spicy Red theme from Visual Studio 2022 Preview.
 
-It features frenzy red UI with syntax highlighting remains the same as the built-in theme "Dark (Visual Studio - C/C++)".
+It features frenzy red UI with syntax highlighting the same as the built-in theme "Dark (Visual Studio - C/C++)".
 
 ## Installation & Usage
 
