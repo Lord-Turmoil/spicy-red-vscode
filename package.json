@@ -1,20 +1,36 @@
 {
   "name": "spicy-red-vscode",
   "displayName": "Spicy Red",
-  "description": "Spicy Red theme from Visual Studio",
   "version": "0.1.0",
-  "engines": {
-    "vscode": "^1.15.0"
+  "publisher": "lord-turmoil",
+  "description": "Spicy Red theme from Visual Studio",
+  "author" : {
+    "name": "Lord Turmoil"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "assets/favicon.png",
+  "pricing": "Free",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Lord-Turmoil/spicy-red-vscode/issues",
+    "email": "tony-turmoil@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lord-Turmoil/spicy-red-vscode.git"
+  },
+  "homepage": "https://github.com/Lord-Turmoil/spicy-red-vscode/blob/main/README.md",
+  "engines": {
+    "vscode": "^1.15.0"
+  },
   "contributes": {
     "themes": [
       {
         "label": "Spicy Red",
         "uiTheme": "vs-dark",
-        "path": "./themes/Spicy Red.json"
+        "path": "./themes/spicy-red.json"
       }
     ]
   }
