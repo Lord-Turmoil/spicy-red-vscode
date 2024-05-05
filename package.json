@@ -1,0 +1,21 @@
+{
+  "name": "spicy-red-vscode",
+  "displayName": "Spicy Red",
+  "description": "Spicy Red theme from Visual Studio",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spicy Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spicy Red.json"
+      }
+    ]
+  }
+}
