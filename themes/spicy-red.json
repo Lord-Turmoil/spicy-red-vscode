@@ -28,7 +28,7 @@
 		"menu.background": "#303031",
 		"menu.border": "#454545",
 		"menu.foreground": "#cccccc",
-		"menu.selectionBackground": "#0078d4",
+		"menu.selectionBackground": "#6a0d12",
 		"menu.separatorBackground": "#454545",
 		"panel.background": "#2b2425",
 		"panel.border": "#806a0d12",
@@ -57,9 +57,7 @@
 		"terminal.inactiveSelectionBackground": "#3a3d41",
 		"titleBar.activeBackground": "#6a0d12",
 		"welcomePage.background": "#2b2425",
-		"widget.border": "#303031",
-		"extensionBadge.remoteBackground": "#6a0d12",
-		"extensionBadge.remoteForeground": "#6a0d12"
+		"widget.border": "#303031"
 	},
 	"tokenColors": [
 		{

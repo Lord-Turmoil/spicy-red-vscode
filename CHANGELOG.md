@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.4] - 2025-11-22
+
+- Fix remote badge color for better visibility.
+
 ## [0.1.3] - 2025-11-17
 
 - Update colors to match the latest Visual Studio Code scheme.
